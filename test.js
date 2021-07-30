@@ -1,3 +1,3 @@
 getEven = (num) => {
-    return num%2!==1 ? true : false
+    return [num%2!==1 ? true : false]
   }
